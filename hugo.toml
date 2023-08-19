@@ -1,0 +1,3 @@
+baseURL = 'https://braillescreen.net/'
+languageCode = 'en-us'
+title = 'BrailleScreen'
