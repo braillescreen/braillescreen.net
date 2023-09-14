@@ -1,7 +1,7 @@
 # braillescreen.net
 
-The source code to my website.
+The source code to my Hugo website.
 
-Note that some stuff has been omitted (the audio directory, for example) but it does work in production.
+The current code here is only used for staging until considered production-ready; you can [view a built version of this staging site](https://staging.braillescreen.net).
 
-The current code here is only used for staging; you can [view a built version of this site](https://staging.braillescreen.net).
+Please feel free to report / fix issues and whatnot if you find a typo etc.
