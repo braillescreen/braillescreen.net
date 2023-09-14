@@ -7,7 +7,6 @@ menu:
     weight: -20
 ---
 
-
 # Contact Information
 You can use the below information to contact me:
 * BrailleScreen on many services (GitHub, X (formally known as Twitter), etc.)
