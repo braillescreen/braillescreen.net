@@ -12,7 +12,6 @@ menu:
 # Welcome!
 I would like to welcome you to my website! I hope you have a good time!
 
-
 This is a staging site and will eventually replace my main one. However, this is being fixed live before your eyes!
 
 Joy times!
