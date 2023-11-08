@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-date: 2023-09-13T23:21:25-05:00
 draft: false
 menu:
   main:
