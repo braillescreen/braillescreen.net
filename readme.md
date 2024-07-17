@@ -1,15 +1,11 @@
 # braillescreen.net
 
-The source code to my Hugo website.
+The source code to [my website](https://braillescreen.net).
 
-The current code here is only used for staging until considered production-ready; you can [view a built version of this staging site](https://staging.braillescreen.net) or build it with simply:
-```
-git clone https://github.com/braillescreen/braillescreen.net.git
-cd braillescreen.net
-hugo
-```
+## Building the site
+TODO!
+
 
 That's all there is to it! A very quick static site, that still allows me to write in Markdown and not consider HTML when I just want to write!
 
-
-Please feel free to report / fix issues and whatnot if you find a typo etc.
+Any reports, fixes or improvements are most certainly welcome and appreciated! If you have an idea that would be considered a big change to either the site's functionality or content, please open an issue first. Thanks!
