@@ -1,4 +1,4 @@
-public/
+public_html/
 *.lock
 resources/
 .env
